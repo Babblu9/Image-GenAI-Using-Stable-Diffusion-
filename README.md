@@ -1,6 +1,6 @@
-# Stable Bud
+# Image GenAI
 
-Stable Bud is a desktop application that generates images from text prompts using the Stable Diffusion model. It utilizes the Tkinter library for the GUI and the Hugging Face `diffusers` library for generating images.
+Image GenAI is a desktop application that generates images from text prompts using the Stable Diffusion model. It utilizes the Tkinter library for the GUI and the Hugging Face `diffusers` library for generating images.
 
 ## Features
 
